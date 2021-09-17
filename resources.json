@@ -1,4 +1,4 @@
 [
-  { "url":"cdn.pixabay.com/download/audio/2021/08/09/audio_3f0a8d8d12.mp3?filename=birds-chirping-04-6771.mp3","type":"audio","bank":"etBird","n":0},
-  { "url":"cdn.pixabay.com/download/audio/2021/08/09/audio_1c89464e03.mp3?filename=birds_singingwav-6888.mp3","type":"audio","bank":"etBird","n":1}
+  { "url":"https://cdn.pixabay.com/download/audio/2021/08/09/audio_3f0a8d8d12.mp3?filename=birds-chirping-04-6771.mp3","type":"audio","bank":"etBird","n":0},
+  { "url":"https://cdn.pixabay.com/download/audio/2021/08/09/audio_1c89464e03.mp3?filename=birds_singingwav-6888.mp3","type":"audio","bank":"etBird","n":1}
 ]

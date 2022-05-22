@@ -2637,5 +2637,19 @@
 { "url":"PMopt/17FMaj.mp3","type":"audio","bank":"PMopt","n":17},
 { "url":"PMopt/18GMaj.mp3","type":"audio","bank":"PMopt","n":18},
 { "url":"PMopt/19Amin.mp3","type":"audio","bank":"PMopt","n":19},
-{ "url":"PMopt/20Bdim.mp3","type":"audio","bank":"PMopt","n":20}
+{ "url":"PMopt/20Bdim.mp3","type":"audio","bank":"PMopt","n":20},
+{ "url":"PMdiss/00C7.mp3","type":"audio","bank":"PMdiss","n":0},			
+{ "url":"PMdiss/01Dm7b5.mp3","type":"audio","bank":"PMdiss","n":1},			
+{ "url":"PMdiss/02Em7b5.mp3","type":"audio","bank":"PMdiss","n":2},			
+{ "url":"PMdiss/03FmMaj7.mp3","type":"audio","bank":"PMdiss","n":3},			
+{ "url":"PMdiss/04Gm7.mp3","type":"audio","bank":"PMdiss","n":4},			
+{ "url":"PMdiss/05AbMaj7#5.mp3","type":"audio","bank":"PMdiss","n":5},			
+{ "url":"PMdiss/06Bb7.mp3","type":"audio","bank":"PMdiss","n":6},			
+{ "url":"PMdiss/07C7.mp3","type":"audio","bank":"PMdiss","n":7},			
+{ "url":"PMdiss/08Dm7b5.mp3","type":"audio","bank":"PMdiss","n":8},			
+{ "url":"PMdiss/09Em7b5.mp3","type":"audio","bank":"PMdiss","n":9},			
+{ "url":"PMdiss/10FmMaj7.mp3","type":"audio","bank":"PMdiss","n":10},			
+{ "url":"PMdiss/11Gm7.mp3","type":"audio","bank":"PMdiss","n":11},			
+{ "url":"PMdiss/12Abmaj7#5.mp3","type":"audio","bank":"PMdiss","n":12},			
+{ "url":"PMdiss/13Bb7.mp3","type":"audio","bank":"PMdiss","n":13}
 ]

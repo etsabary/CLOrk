@@ -2656,5 +2656,13 @@
 { "url":"clicking/clicking 2.wav","type":"audio","bank":"clicking","n":1},
 { "url":"clicking/clicking 3.wav","type":"audio","bank":"clicking","n":2},
 { "url":"clicking/clicking 4.wav","type":"audio","bank":"clicking","n":3},
-{ "url":"clicking/clicking 5.wav","type":"audio","bank":"clicking","n":4}
+{ "url":"clicking/clicking 5.wav","type":"audio","bank":"clicking","n":4},
+{ "url":"fluidglitch/Constanzo-PreparedSnare-M.wav","type":"audio","bank":"fluidglitch","n":0},
+{ "url":"fluidglitch/Green-Box639.wav","type":"audio","bank":"fluidglitch","n":1},
+{ "url":"fluidglitch/Green-Box641.wav","type":"audio","bank":"fluidglitch","n":2},
+{ "url":"fluidglitch/Tremblay-AaS-SynthTwoVoices-M.wav","type":"audio","bank":"fluidglitch","n":3},
+{ "url":"fluidglitch/Tremblay-ASWINE-ScratchySynth-M.wav","type":"audio","bank":"fluidglitch","n":4},
+{ "url":"fluidglitch/Tremblay-BaB-HumDC-M.wav","type":"audio","bank":"fluidglitch","n":5},
+{ "url":"fluidglitch/Tremblay-Iterative-M.wav","type":"audio","bank":"fluidglitch","n":6},
+{ "url":"fluidglitch/Tremblay-UW-ComplexDescent-M.wav","type":"audio","bank":"fluidglitch","n":7}
 ]

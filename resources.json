@@ -2664,5 +2664,10 @@
 { "url":"fluidglitch/Tremblay-ASWINE-ScratchySynth-M.wav","type":"audio","bank":"fluidglitch","n":4},
 { "url":"fluidglitch/Tremblay-BaB-HumDC-M.wav","type":"audio","bank":"fluidglitch","n":5},
 { "url":"fluidglitch/Tremblay-Iterative-M.wav","type":"audio","bank":"fluidglitch","n":6},
-{ "url":"fluidglitch/Tremblay-UW-ComplexDescent-M.wav","type":"audio","bank":"fluidglitch","n":7}
+{ "url":"fluidglitch/Tremblay-UW-ComplexDescent-M.wav","type":"audio","bank":"fluidglitch","n":7},
+{ "url":"fluidsound/Tremblay-BaB-SoundscapeGolcarWithDog.wav","type":"audio","bank":"fluidsound","n":0},
+{ "url":"fluidsound/Tremblay-CEL-GlitchyMusicBoxMelo.wav","type":"audio","bank":"fluidsound","n":1},
+{ "url":"fluidsound/Tremblay-CF-ChurchBells.wav","type":"audio","bank":"fluidsound","n":2},
+{ "url":"fluidsound/Tremblay-SA-UprightPianoPedalWide.wav","type":"audio","bank":"fluidsound","n":3},
+{ "url":"fluidsound/Tremblay-SlideChoirAdd-M.wav","type":"audio","bank":"fluidsound","n":4}
 ]

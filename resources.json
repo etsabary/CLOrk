@@ -2702,5 +2702,11 @@
 { "url":"etBowl/etBowl_30.wav","type":"audio","bank":"etBowl","n":29},
 { "url":"etBowl/etBowl_31.wav","type":"audio","bank":"etBowl","n":30},
 { "url":"etBowl/etBowl_32.wav","type":"audio","bank":"etBowl","n":31},
-{ "url":"etBowl/etBowl_33.wav","type":"audio","bank":"etBowl","n":32}
+{ "url":"etBowl/etBowl_33.wav","type":"audio","bank":"etBowl","n":32},
+{ "url":"etLongBowl/etLongBowl-01.wav","type":"audio","bank":"etLongBowl","n":0},
+{ "url":"etLongBowl/etLongBowl-02.wav","type":"audio","bank":"etLongBowl","n":1},
+{ "url":"etLongBowl/etLongBowl-03.wav","type":"audio","bank":"etLongBowl","n":2},
+{ "url":"etLongBowl/etLongBowl-04.wav","type":"audio","bank":"etLongBowl","n":3},
+{ "url":"etLongBowl/etLongBowl-05.wav","type":"audio","bank":"etLongBowl","n":4},
+{ "url":"etLongBowl/etLongBowl-06.wav","type":"audio","bank":"etLongBowl","n":5}
 ]

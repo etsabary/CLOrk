@@ -2708,5 +2708,6 @@
 { "url":"etLongBowl/etLongBowl-03.wav","type":"audio","bank":"etLongBowl","n":2},
 { "url":"etLongBowl/etLongBowl-04.wav","type":"audio","bank":"etLongBowl","n":3},
 { "url":"etLongBowl/etLongBowl-05.wav","type":"audio","bank":"etLongBowl","n":4},
-{ "url":"etLongBowl/etLongBowl-06.wav","type":"audio","bank":"etLongBowl","n":5}
+{ "url":"etLongBowl/etLongBowl-06.wav","type":"audio","bank":"etLongBowl","n":5},
+{ "url":"etToiletHorn/etToiletHorn.wav","type":"audio","bank":"etToiletHorn","n":0}
 ]
